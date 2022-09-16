@@ -1,0 +1,7 @@
+com/syf/api/controller/ApplicationController.class
+com/syf/api/model/CustomerDetails.class
+com/syf/api/controller/RestReactiveController.class
+com/syf/api/RestApplication.class
+com/syf/api/model/CustomerDetails$CustomerDetailsBuilder.class
+com/syf/api/controller/RestNonReactiveController$1.class
+com/syf/api/controller/RestNonReactiveController.class
