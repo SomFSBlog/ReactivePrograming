@@ -3,3 +3,4 @@
 /Volumes/work_files/backend/reactive-programming/src/main/java/com/syf/api/RestApplication.java
 /Volumes/work_files/backend/reactive-programming/src/main/java/com/syf/api/controller/RestNonReactiveController.java
 /Volumes/work_files/backend/reactive-programming/src/main/java/com/syf/api/controller/ApplicationController.java
+/Volumes/work_files/backend/reactive-programming/src/main/java/com/syf/api/config/SpringSecurityConfig.java

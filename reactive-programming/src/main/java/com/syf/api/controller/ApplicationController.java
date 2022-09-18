@@ -6,6 +6,7 @@ import java.util.List;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -15,6 +16,7 @@ import com.syf.api.model.CustomerDetails;
 
 @RestController
 @RequestMapping("reactiveApi")
+@CrossOrigin
 public class ApplicationController {
 
 	private static final Logger log = LoggerFactory.getLogger(ApplicationController.class);
